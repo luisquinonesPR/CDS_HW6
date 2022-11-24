@@ -1,0 +1,7 @@
+conda create --name hw6 python=3.9.13
+
+conda activate hw6
+
+conda install scikit-learn
+
+pip install -e .
